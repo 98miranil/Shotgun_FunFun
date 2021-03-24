@@ -1,0 +1,13 @@
+Z:\c#\exemples\05-Sprites\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\c#\exemples\05-Sprites\obj\x86\Debug\AdvancedFramework.Game.resources
+Z:\c#\exemples\05-Sprites\obj\x86\Debug\05-Sprites.csproj.GenerateResource.Cache
+Z:\c#\exemples\05-Sprites\obj\x86\Debug\05-Sprites.exe
+Z:\05-Sprites.exe
+C:\Documents and Settings\Administrador\Escritorio\Programacio\05-Sprites\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Programacio\05-Sprites\obj\x86\Debug\AdvancedFramework.Game.resources
+C:\Documents and Settings\Administrador\Escritorio\Programacio\05-Sprites\obj\x86\Debug\05-Sprites.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Programacio\05-Sprites\obj\x86\Debug\05-Sprites.exe
+C:\Documents and Settings\Administrador\Escritorio\Programacio\Copia de 05-Sprites\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Programacio\Copia de 05-Sprites\obj\x86\Debug\AdvancedFramework.Game.resources
+C:\Documents and Settings\Administrador\Escritorio\Programacio\Copia de 05-Sprites\obj\x86\Debug\05-Sprites.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Programacio\Copia de 05-Sprites\obj\x86\Debug\05-Sprites.exe
